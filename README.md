@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on honing my coding skills.<br>👯 I’m looking to collaborate on exciting front-end projects.<br>🤝 I’m looking for help with mastering advanced JavaScript techniques.<br>🌱 I’m currently learning the intricacies of React development.<br>💬 Ask me about my latest coding challenges and breakthroughs.<br>⚡ Fun fact: Debugging is my superpower—I find and squash bugs! 
+🔭 I’m currently working on developing my coding skills.<br>👯 I’m looking to collaborate on exciting front-end projects.<br>🤝 I’m looking for help with mastering advanced JavaScript techniques.<br>🌱 I’m currently learning the intricacies of React development.<br>💬 Ask me about my latest coding challenges and breakthroughs.<br>⚡ Fun fact: Debugging is my superpower—I find and squash bugs! 
 
 
 ## 🌐 Socials:
